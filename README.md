@@ -6,7 +6,6 @@
 <h4>Frontend Web Developer</h4>
 <p>I’m Sonia Binty, a passionate React & MERN Stack Developer who loves building modern, user-friendly web applications.A passionate Frontend Web Developer specializing in modern UI/UX with ShadCN + Magic UI. I love crafting clean, scalable web applications and bringing ideas to life with code.</p> 
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/Defcon27/) 
