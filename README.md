@@ -1,6 +1,6 @@
-## Hey, [Haany here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Hey, [Sonia Binty here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-<h1>Welcome to my humble abode in the Digital World..</h1> 
+<h1>I’m Sonia Binty, a passionate React & MERN Stack Developer who loves building modern, user-friendly web applications.A passionate React Developer specializing in modern UI/UX with ShadCN + Magic UI. I love crafting clean, scalable web applications and bringing ideas to life with code.</h1> 
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
