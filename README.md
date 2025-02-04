@@ -1,7 +1,7 @@
 ###
   <img height="200" src="https://i.ibb.co.com/JWbSzKDT/Black-and-Yellow-Web-Developer-Linked-In-Banner-4.png"  />
 
-## Hey, [Sonia Binty here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+### Hey, [Sonia Binty here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>I’m Sonia Binty, a passionate React & MERN Stack Developer who loves building modern, user-friendly web applications.A passionate React Developer specializing in modern UI/UX with ShadCN + Magic UI. I love crafting clean, scalable web applications and bringing ideas to life with code.</h1> 
 
