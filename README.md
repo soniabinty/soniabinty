@@ -37,10 +37,11 @@
  ## Who am I?
  ```
 class WhoAmI {
+
   constructor() {
-    this.user = "Sonia Binty";
-    this.currentWork = "Writing code";
-    this.hobbies = [
+   user = "Sonia Binty";
+   current_Work = "Writing code";
+    hobbies = [
       "Building sleek UIs",
       "Exploring AI-powered UI",
       "Learning advanced animations",
@@ -62,11 +63,6 @@ class WhoAmI {
   }
 }
 
-const me = new WhoAmI();
-console.log(`👋 Hi, I'm ${me.user}`);
-console.log(`🌍 Location: ${me.getCity()}`);
-console.log(`💻 Current Work: ${me.currentWork}`);
-console.log(`🎯 Ambitions: ${me.ambitions().join(", ")}`);
 
 ```
 
