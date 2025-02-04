@@ -1,5 +1,5 @@
 ###
-  <img height="200" src="https://i.ibb.co.com/CsH3qXmG/Black-and-Yellow-Web-Developer-Linked-In-Banner-1.png"  />
+  <img height="200" src="https://i.ibb.co.com/qM69JM8y/Black-and-Yellow-Web-Developer-Linked-In-Banner-2.png"  />
 
 ## Hey, [Sonia Binty here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
