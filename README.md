@@ -35,27 +35,38 @@
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' height='40'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
  
  ## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Haany Ali'
-		current_work = 'Writing code'
-		hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
-				'Being up all Night chasing that ONE BUG...'
-			]
-	
-	def getCity():
-		return Vancouver_Canada()
-	
-	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
-		# Assume 10 more awesome ambitions here  ;)
-	
- ```
+class WhoAmI {
+  constructor() {
+    this.user = "Sonia Binty";
+    this.currentWork = "Writing code";
+    this.hobbies = [
+      "Building sleek UIs",
+      "Exploring AI-powered UI",
+      "Learning advanced animations",
+      "Debugging at 3 AM",
+    ];
+  }
+
+  getCity() {
+    return "-Mymensingh , Bangladesh"; 
+  }
+
+  ambitions() {
+    return [
+      "Master AI-powered UI",
+      "Build next-gen web experiences",
+      "Create an open-source project",
+      "Never stop learning!",
+    ];
+  }
+}
+
+const me = new WhoAmI();
+console.log(`👋 Hi, I'm ${me.user}`);
+console.log(`🌍 Location: ${me.getCity()}`);
+console.log(`💻 Current Work: ${me.currentWork}`);
+console.log(`🎯 Ambitions: ${me.ambitions().join(", ")}`);
+
  
 ## Current Works
  * Breaking into Cybersec !!
