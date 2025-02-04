@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="center">🚀 Technology I uSE</h2>
+<h2 align="center">🚀 Technology I Use</h2>
 
 ###
 
@@ -59,7 +59,7 @@
 
 ###
 
-<h3 align="center">🛠 Tools I Use</h3>
+<h2 align="center">🛠 Tools I Use</h2>
 
 ###
 
