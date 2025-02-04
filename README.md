@@ -34,37 +34,7 @@
  ## Technologies I Use
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' height='40'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
  
- ## Who am I?
- ```
-class WhoAmI {
 
-  constructor() {
-   user = "Sonia Binty";
-   current_Work = "Writing code";
-    hobbies = [
-      "Building sleek UIs",
-      "Exploring AI-powered UI",
-      "Learning advanced animations",
-      "Debugging at 3 AM",
-    ];
-  }
-
-  getCity() {
-    return "-Mymensingh , Bangladesh"; 
-  }
-
-  ambitions() {
-    return [
-      "Master AI-powered UI",
-      "Build next-gen web experiences",
-      "Create an open-source project",
-      "Never stop learning!",
-    ];
-  }
-}
-
-
-```
 
  
 ## Current Works
