@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="center">I code with</h2>
+<h2 align="center">🚀 Technology I uSE</h2>
 
 ###
 
@@ -53,6 +53,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 </div>
+
+
 
 
 ###
