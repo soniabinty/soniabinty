@@ -104,10 +104,10 @@ const sonia_binty = {
 
 ## 📊 GitHub Stats  
 
-| <a href="https://github.com/SoniaBinty/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SoniaBinty&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sonia's GitHub stats" /></a> | <a href="https://github.com/SoniaBinty/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoniaBinty&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/SoniaBinty"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SoniaBinty&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Sonia's GitHub stats" /></a> | <a href="https://github.com/SoniaBinty"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoniaBinty&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-| <a href="https://github.com/SoniaBinty/github-readme-streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SoniaBinty&theme=buefy&hide_border=true" alt="Sonia's GitHub Streak" /></a> |
+| <a href="https://github.com/SoniaBinty"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SoniaBinty&theme=radical&hide_border=true" alt="Sonia's GitHub Streak" /></a> |
 | ------------- |
 
 
