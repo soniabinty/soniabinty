@@ -26,16 +26,12 @@
 const sonia_binty = {
   pronouns: "she" | "her",
   ambitions: [Master AI-powered UI, Build next-gen web experiences, Create an open-source project, Never stop learning],
-  tools: [Git , Figma , Vscode ],
+  city: [Mymensingh , Bangladesh],
   hobbies {
       "Building sleek UIs",
       "Exploring AI-powered UI",
       "Learning advanced animations",
         },
- getCity() {
-    return "Mymensingh , Bangladesh"; 
-  }
-
 }
 ```
 ###
