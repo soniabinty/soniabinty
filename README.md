@@ -31,9 +31,20 @@ const sonia_binty = {
       "Building sleek UIs",
       "Exploring AI-powered UI",
       "Learning advanced animations",
-      "Debugging at 3 AM",              
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+        },
+ getCity() {
+    return "Mymensingh , Bangladesh"; 
+  }
+
+  ambitions() {
+    return [
+      "Master AI-powered UI",
+      "Build next-gen web experiences",
+      "Create an open-source project",
+      "Never stop learning!",
+    ];
+  }
+
 }
 ```
 ###
