@@ -20,12 +20,21 @@
 </div>
 
 
-<h3 align="left">👩‍💻  About Me</h3>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-###
-
-<p align="left">- 🔭 I’m working as ... Frontend Web Developer<br>- 📚 I'm currently learning ... Next js<br>- ⚡ In my free time ...  I like to hangout with my friends and family</p>
-
+```javascript
+const sonia_binty = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS , Express , React , Node],
+  tools: [Git , Figma , Vscode ],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 ###
 
 <h3 align="left">🌱 Currently Exploring</h3>
