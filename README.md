@@ -1,5 +1,5 @@
-###
-  <img height="200" src="https://i.ibb.co.com/JWbSzKDT/Black-and-Yellow-Web-Developer-Linked-In-Banner-4.png"  />
+### 
+ <img height="200" src="https://i.ibb.co.com/JWbSzKDT/Black-and-Yellow-Web-Developer-Linked-In-Banner-4.png"  />
 
 ### Hey, [Sonia Naznin Binty here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
@@ -58,7 +58,8 @@ const sonia_binty = {
 
 
 ###
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true"
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif"
+
 
 ###
 ### 🖥 Frontend  
