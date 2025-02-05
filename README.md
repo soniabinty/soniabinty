@@ -25,8 +25,7 @@
 ```javascript
 const sonia_binty = {
   pronouns: "she" | "her",
-
-  ambitions: [   "Master AI-powered UI","Build next-gen web experiences","Create an open-source project","Never stop learning!",],
+  ambitions: [Master AI-powered UI, Build next-gen web experiences, Create an open-source project, Never stop learning],
   tools: [Git , Figma , Vscode ],
   hobbies {
       "Building sleek UIs",
