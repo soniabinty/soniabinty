@@ -79,15 +79,6 @@ const sonia_binty = {
 
 
 
-
-
-
-
-
- 
-## Current Works
- * Breaking into Cybersec !!
- * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
  
 
 ## 📊 GitHub Stats  
