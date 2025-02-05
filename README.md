@@ -81,7 +81,7 @@ const sonia_binty = {
 
 <br clear="both">
 
- <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
+ <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="25%" />
 ###
 ### 🛠 Dev Tools  
 <div align="left">
