@@ -41,11 +41,11 @@ const sonia_binty = {
 - 🎨 Designing sleek UIs using **ShadCN & Magic UI**  
 - 🧠 Learning **Advanced Animations & AI-driven UI**  
 
-<h2 align="center">🚀 Skills</h2>
+<h2 align="left">🚀 Skills</h2>
 
 ###
 ### 🖥 Frontend  
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -57,7 +57,7 @@ const sonia_binty = {
 
 ###
 ### ⚙️ Backend  
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
@@ -67,7 +67,7 @@ const sonia_binty = {
 
 ###
 ### 🛠 Dev Tools  
-<div align="center">
+<div align="left">
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
