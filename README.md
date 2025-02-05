@@ -56,6 +56,10 @@ const sonia_binty = {
 
 <h2 align="left">🚀 Skills</h2>
 
+
+###
+ <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 ###
 ### 🖥 Frontend  
 <div align="left">
@@ -68,8 +72,7 @@ const sonia_binty = {
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
 </div>
 
-###
- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 
 
 ###
