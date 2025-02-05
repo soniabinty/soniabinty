@@ -69,10 +69,8 @@ const sonia_binty = {
 </div>
 
 ###
+ <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="25%" />
 
-<br clear="both">
-
- <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
 
 ###
 ### ⚙️ Backend  
