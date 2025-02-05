@@ -3,9 +3,12 @@
 
 ### Hey, [Sonia Naznin Binty here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-<h4>Frontend Web Developer</h4>
-<p>I’m Sonia Binty, a passionate React & MERN Stack Developer who loves building modern, user-friendly web applications.A passionate Frontend Web Developer specializing in modern UI/UX with ShadCN + Magic UI. I love crafting clean, scalable web applications and bringing ideas to life with code.</p> 
+🚀 **Web Developer | MERN Stack | React Enthusiast**  
 
+
+## 👩‍💻 About Me  
+I am a passionate **Frontend & MERN-Stack Developer** who loves creating sleek, scalable web applications.  
+Currently, I'm exploring **Next.js** and **AI-powered UI innovations** to enhance user experiences.  
 
 ### 📬 Find me at
 
