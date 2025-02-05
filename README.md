@@ -25,7 +25,8 @@
 ```javascript
 const sonia_binty = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS , Express , React , Node],
+
+  ambitions: [   "Master AI-powered UI","Build next-gen web experiences","Create an open-source project","Never stop learning!",],
   tools: [Git , Figma , Vscode ],
   hobbies {
       "Building sleek UIs",
@@ -34,15 +35,6 @@ const sonia_binty = {
         },
  getCity() {
     return "Mymensingh , Bangladesh"; 
-  }
-
-  ambitions() {
-    return [
-      "Master AI-powered UI",
-      "Build next-gen web experiences",
-      "Create an open-source project",
-      "Never stop learning!",
-    ];
   }
 
 }
