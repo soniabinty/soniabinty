@@ -107,7 +107,9 @@ const sonia_binty = {
 | <a href="https://github.com/SoniaBinty"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SoniaBinty&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Sonia's GitHub stats" /></a> | <a href="https://github.com/SoniaBinty"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SoniaBinty&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=soniabinty" alt="GitHub Streak" /></a>
+| <a href="https://git.io/streak-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=SoniaBinty&theme=buefy&hide_border=true" alt="Sonia Binty's GitHub Streak" /></a> |
+| ------------- |
+
 
 
 
