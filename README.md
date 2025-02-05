@@ -69,6 +69,12 @@ const sonia_binty = {
 </div>
 
 ###
+
+<br clear="both">
+
+ <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
+
+###
 ### ⚙️ Backend  
 <div align="left">
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
@@ -77,11 +83,9 @@ const sonia_binty = {
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
 </div>
-###
 
-<br clear="both">
 
- <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="25%" />
+ 
 ###
 ### 🛠 Dev Tools  
 <div align="left">
