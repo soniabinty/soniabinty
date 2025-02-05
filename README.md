@@ -5,10 +5,20 @@
 
 🚀 **Web Developer | MERN Stack | React Enthusiast**  
 
+<p>I’m Sonia Binty, a passionate React & MERN Stack Developer who loves building modern, user-friendly web applications. I love crafting clean, scalable web applications and bringing ideas to life with code.
+ I am a passionate **Frontend & MERN-Stack Developer** who loves creating sleek, scalable web applications.  
+Currently, I'm exploring **Next.js** and **AI-powered UI innovations** to enhance user experiences.   
+</p>
+
+
+
 
 ## 👩‍💻 About Me  
-I am a passionate **Frontend & MERN-Stack Developer** who loves creating sleek, scalable web applications.  
-Currently, I'm exploring **Next.js** and **AI-powered UI innovations** to enhance user experiences.  
+
+###
+
+<p align="left">✨ Creating bugs since ...2024<br>📚 I'm currently learning ...Next js<br>🎯 Goals: ...Be a Efficient Web Developer<br>🎲 Fun fact: ...Always Seeking Trouble</p>
+
 
 ### 📬 Find me at
 
