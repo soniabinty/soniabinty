@@ -27,10 +27,11 @@ const sonia_binty = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS , Express , React , Node],
   tools: [Git , Figma , Vscode ],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+  hobbies {
+      "Building sleek UIs",
+      "Exploring AI-powered UI",
+      "Learning advanced animations",
+      "Debugging at 3 AM",              
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
