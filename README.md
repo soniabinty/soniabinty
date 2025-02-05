@@ -90,8 +90,12 @@ const sonia_binty = {
  * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
  
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+## 📊 GitHub Stats  
+
+| <a href="https://github.com/SoniaBinty/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SoniaBinty&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sonia's GitHub stats" /></a> | <a href="https://github.com/SoniaBinty/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoniaBinty&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+
 
  
  
