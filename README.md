@@ -58,7 +58,7 @@ const sonia_binty = {
 
 
 ###
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif"
+ <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
 ###
