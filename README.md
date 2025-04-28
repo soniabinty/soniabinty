@@ -1,7 +1,7 @@
 ### 
  <img height="200" src="https://i.ibb.co.com/JWbSzKDT/Black-and-Yellow-Web-Developer-Linked-In-Banner-4.png"  />
 
-### Hey, [Sonia Naznin Binty here!] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+### Hey, **Sonia Naznin Binty here!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 🚀 **Web Developer | MERN Stack | React Enthusiast**  
 
